@@ -1,4 +1,4 @@
-package wuk0ngDev.Controller;
+package wuk0ng.Controller;
 
 public class classRoomController {
 }

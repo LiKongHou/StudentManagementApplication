@@ -1,4 +1,4 @@
-package wuk0ngDev.Model;
+package wuk0ng.Model;
 
 public class student {
 }

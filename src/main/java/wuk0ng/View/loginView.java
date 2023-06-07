@@ -1,4 +1,4 @@
-package wuk0ngDev.View;
+package wuk0ng.View;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
